@@ -41,6 +41,8 @@
 |1  |[PriorityQueue][1]   |126440 KB|1668 ms|1194 B     |
 |2  |[boolean[2000001]][2]| 66224 KB| 784 ms|1200 B     |
 
+<a id="PriorityQueue"></a>
+
 ### *PriorityQueue*
 
 * [***code***](http://boj.kr/a5086d5fdd584e5083c352906fff1d3a)
@@ -117,6 +119,8 @@ public class Main {
 ```
 
 * 입력하는 부분에서 헷갈리신다면 [여기](Java02.java)를 보셔도 됩니다. 미비한 차이(300ms 정도 단축)이지만 성능개선을 위해 위와 같이 작성했습니다.
+
+<a id="boolean[2000001]"></a>
 
 ### *boolean[2000001]*
 
@@ -196,5 +200,5 @@ public class Main {
 ```
 
 <!-- ref -->
-[1]: ###*PriorityQueue*
-[2]: ###*boolean[2000001]*
+[1]: #PriorityQueue
+[2]: #boolean[2000001]
